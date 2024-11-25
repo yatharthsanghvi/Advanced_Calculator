@@ -3,7 +3,7 @@ A versatile and visually appealing **React Native Calculator App** designed to p
 
 ---
 
-##🌟 Features
+## 🌟 Features
 - **➕ Basic Operations:** Perform addition, subtraction, multiplication, and division.
 - **📊 Advanced Functions:** Access features like percentages and other scientific calculations (if implemented).
 - **🌈 Dynamic Themes:** Switch between light and dark themes for personalized usage.
