@@ -45,7 +45,7 @@ Follow these steps to set up and explore the app:
 ## ⬇️ Download
 Ready to try the app? Download it now!
 
-- **APK:** Download APK (Link to the APK file for Android users)
+- **APK:** Download [APK](https://github.com/yatharthsanghvi/Advanced_Calculator/releases/tag/1.0)
 
 ---
 
