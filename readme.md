@@ -3,14 +3,14 @@ A versatile and visually appealing **React Native Calculator App** designed to p
 
 ---
 
-## 🌟 Features
-- ** ➕ Basic Operations:** Perform addition, subtraction, multiplication, and division.
-- ** 📊 Advanced Functions:** Access features like percentages and other scientific calculations (if implemented).
-- ** 🌈 Dynamic Themes:** Switch between light and dark themes for personalized usage.
-- ** 📂 Data Persistence:** Save preferences locally using AsyncStorage.
-- ** ⚡ Smooth Animations:** Enhance interactions with subtle and responsive animations.
-- ** 📱 Responsive Design:** Optimized for devices of all screen sizes.
-- ** 🔧 Customizable Settings:** Adjust app preferences like themes or advanced modes.
+##🌟 Features
+- **➕ Basic Operations:** Perform addition, subtraction, multiplication, and division.
+- **📊 Advanced Functions:** Access features like percentages and other scientific calculations (if implemented).
+- **🌈 Dynamic Themes:** Switch between light and dark themes for personalized usage.
+- **📂 Data Persistence:** Save preferences locally using AsyncStorage.
+- **⚡ Smooth Animations:** Enhance interactions with subtle and responsive animations.
+- **📱 Responsive Design:** Optimized for devices of all screen sizes.
+- **🔧 Customizable Settings:** Adjust app preferences like themes or advanced modes.
  
 ---
 
