@@ -5,12 +5,16 @@ A versatile and visually appealing **React Native Calculator App** designed to p
 
 ## 🌟 Features
 - **➕ Basic Operations:** Perform addition, subtraction, multiplication, and division.
+- **🔢 Tip Calculator:** Quickly calculate tips for your bills.
+- **🔄 Unit Converter:** Convert between various units seamlessly.
+- **📜 History:** View your past calculations for easy reference.
 - **📊 Advanced Functions:** Access features like percentages and other scientific calculations (if implemented).
 - **🌈 Dynamic Themes:** Switch between light and dark themes for personalized usage.
 - **📂 Data Persistence:** Save preferences locally using AsyncStorage.
 - **⚡ Smooth Animations:** Enhance interactions with subtle and responsive animations.
 - **📱 Responsive Design:** Optimized for devices of all screen sizes.
 - **🔧 Customizable Settings:** Adjust app preferences like themes or advanced modes.
+- **📋 Modals:** Display additional options or details in a clean overlay.
  
 ---
 
