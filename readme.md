@@ -24,7 +24,7 @@ Follow these steps to set up and explore the app:
 1. **Install in 60 Seconds**  
    Clone and install dependencies with one command:  
    ```bash  
-   git clone https://github.com/your-username/notes-app.git && cd notes-app && yarn install  
+   git clone https://github.com/yatharthsanghvi/Advanced_Calculator.git && cd notes-app && yarn install  
    ```  
 
 2. **Start Your App**  
